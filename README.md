@@ -6,3 +6,5 @@
 * Spent 10 years at Skype designing for mobile, tablet, TV, Xbox and HoloLens 📞.
 * Owns a [photogenic French Bulldog](https://instagram.com/roxyfrogdog) 🐾.
 * Used to work for the Backstreet Boys - seriously. 🕺
+* Find me on Mastodon: <a rel="me" href="https://mastodon.design/@clocky">https://mastodon.design/@clocky</a>
+* 
