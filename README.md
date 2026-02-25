@@ -8,6 +8,6 @@
 * Used to work for the Backstreet Boys - seriously. 🕺
 
 ## Socials
-* <a rel="me" href="https://bsky.app/profile/mark.mclaughlin.uk)">bsky.app/mark.mclaughlin.uk</a>
+* <a rel="me" href="https://bsky.app/profile/mark.mclaughlin.uk">bsky.app/mark.mclaughlin.uk</a>
 * <a rel="me" href="https://mastodon.design/@clocky">mastodon.design/@clocky</a>
 * <a rel="me" href="https://threads.net/@clocky">threads.net/@clocky</a>
