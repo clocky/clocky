@@ -1,6 +1,6 @@
 # Hi, my name is Mark.
 
-* Currently: Staff UX Designer for [Gemini CLI](https://github.com/google-gemini/gemini-cli) in Kirkland, WA. ☁️
+* Currently: Staff UX Designer at Google Cloud, focusing on [Gemini CLI](https://github.com/google-gemini/gemini-cli) in Kirkland, WA. ☁️
 * Previously at [Microsoft](https://github.com/microsoft) as a Principal Design Director in the Developer Division 👨‍💼.
 * Managed the design teams for [Visual Studio Code](https://github.com/microsoft/vscode), [Visual Studio](https://visualstudio.microsoft.com/vs/), Visual Studio for Mac (RIP), [Notebooks](https://visualstudio.microsoft.com/vs/features/notebooks-at-microsoft/) and [Azure DevOps](https://azure.microsoft.com/en-us/products/devops).
 * Spent 10 years at Skype designing for mobile, tablet, TV, Xbox and HoloLens 📞.
